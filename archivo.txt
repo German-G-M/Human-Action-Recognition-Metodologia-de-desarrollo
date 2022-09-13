@@ -1,0 +1,2 @@
+Esto es solo un archivo para poder inicializar el repositorio
+Es necesario para podr trabajr com drawio
