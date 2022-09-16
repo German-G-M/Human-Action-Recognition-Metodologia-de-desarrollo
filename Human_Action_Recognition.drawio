@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-16T16:33:09.854Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="T_jb6iYJ_9uYsDYy7W-H" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-16T20:51:33.215Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="Up8C_tqEYZ72K4QORSkA" version="20.3.0" type="github">
   <diagram id="mcWvsBhBYjvY7HLqfO6d" name="Página-1">
-    <mxGraphModel dx="1730" dy="952" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1153" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -366,13 +366,13 @@
           <mxGeometry x="51.730000000000004" y="1290" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9e3r84pI2SBy_3QbqfXA-9" value="2) Datasets" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="887.5" y="1215" width="160" height="30" as="geometry" />
+          <mxGeometry x="1697.5" y="1215" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9e3r84pI2SBy_3QbqfXA-10" value="3) Challenges ahead" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="870" y="1265" width="160" height="30" as="geometry" />
+          <mxGeometry x="1680" y="1265" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9e3r84pI2SBy_3QbqfXA-11" value="4) some examples" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="870" y="1325" width="160" height="30" as="geometry" />
+          <mxGeometry x="1680" y="1325" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9e3r84pI2SBy_3QbqfXA-12" value="HAR (Human Activity Recognition)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="1290" width="265" height="30" as="geometry" />
@@ -580,6 +580,216 @@
         </mxCell>
         <mxCell id="9e3r84pI2SBy_3QbqfXA-131" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;dashed=1;fontColor=#000000;" edge="1" parent="1" source="9e3r84pI2SBy_3QbqfXA-101" target="9e3r84pI2SBy_3QbqfXA-123">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-132" value="&lt;b&gt;Smartphone is widely explored for HAR&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="855" y="1200" width="265" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-133" value="los sensores más usados son: acelerometro y giroscopio" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="865" y="1245" width="265" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-134" value="otros sensores: brujula, GPS, light sensor, barometro" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="865" y="1280" width="265" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-135" value="&lt;h1&gt;Recognition&lt;/h1&gt;&lt;div&gt;What a person is doing&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1152.5" y="1196.25" width="135" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-136" value="&lt;h1&gt;Action recognition&lt;/h1&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;What&lt;/font&gt;&lt;/b&gt; action class / classes&amp;nbsp; are present in the video&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="1261.25" width="160" height="92.5" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-137" value="&lt;h1&gt;Action detection&lt;/h1&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;Where&lt;/font&gt;&lt;/b&gt; and &lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;when&lt;/font&gt;&lt;/b&gt;&amp;nbsp; an action is perforemed in a video sequence&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="1365" width="160" height="92.5" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-143" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="9e3r84pI2SBy_3QbqfXA-138" target="9e3r84pI2SBy_3QbqfXA-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-138" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Initialization&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1386" y="1208.75" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-144" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="9e3r84pI2SBy_3QbqfXA-139" target="9e3r84pI2SBy_3QbqfXA-140">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-139" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Tracking&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1386" y="1278.75" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-145" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="9e3r84pI2SBy_3QbqfXA-140" target="9e3r84pI2SBy_3QbqfXA-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-140" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Pose Estimation&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1386" y="1338.75" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-141" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Recognition&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1426" y="1403.75" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-146" value="&lt;b&gt;Sensor-based HAR: Basic structure&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="855" y="1490" width="265" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-158" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="9e3r84pI2SBy_3QbqfXA-147" target="9e3r84pI2SBy_3QbqfXA-148">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-147" value="phone" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=12;fontColor=#000000;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="865" y="1543" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-159" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="9e3r84pI2SBy_3QbqfXA-148" target="9e3r84pI2SBy_3QbqfXA-150">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-166" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.13;entryY=0.77;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;fontColor=#000000;dashed=1;" edge="1" parent="1" source="9e3r84pI2SBy_3QbqfXA-148" target="9e3r84pI2SBy_3QbqfXA-149">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-148" value="Raw Sensor Data" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="1553" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-149" value="e.g. time-series,accelerometer, gyroscope data" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1167.5" y="1463" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-160" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="9e3r84pI2SBy_3QbqfXA-150" target="9e3r84pI2SBy_3QbqfXA-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-150" value="Noise filtering" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1168.5" y="1573" width="118" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-161" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="9e3r84pI2SBy_3QbqfXA-151" target="9e3r84pI2SBy_3QbqfXA-152">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-151" value="Pre-processing" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="1573" width="118" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-162" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="9e3r84pI2SBy_3QbqfXA-152" target="9e3r84pI2SBy_3QbqfXA-153">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-152" value="Segmentation" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="1573" width="118" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-163" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="9e3r84pI2SBy_3QbqfXA-153" target="9e3r84pI2SBy_3QbqfXA-154">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-153" value="Feature Extraction" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="1643" width="118" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-164" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="9e3r84pI2SBy_3QbqfXA-154" target="9e3r84pI2SBy_3QbqfXA-155">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-169" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="9e3r84pI2SBy_3QbqfXA-154" target="9e3r84pI2SBy_3QbqfXA-168">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-154" value="Feature Selection and normalization" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="1643" width="118" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-165" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="9e3r84pI2SBy_3QbqfXA-155" target="9e3r84pI2SBy_3QbqfXA-157">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-155" value="Classification" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1167.5" y="1643" width="118" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-157" value="&lt;ul&gt;&lt;li&gt;class 1: stand up&lt;/li&gt;&lt;li&gt;class 2: walking&lt;/li&gt;&lt;li&gt;class 3: running&lt;/li&gt;&lt;li&gt;class 4: going up&lt;/li&gt;&lt;li&gt;etc&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="951" y="1623" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-168" value="In most cases this is the most important part. how can we extract?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1339.5" y="1723" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-172" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="9e3r84pI2SBy_3QbqfXA-170" target="9e3r84pI2SBy_3QbqfXA-171">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-170" value="Action recognition = activity recognition" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="1790" width="163.12" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-174" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="9e3r84pI2SBy_3QbqfXA-171" target="9e3r84pI2SBy_3QbqfXA-173">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-176" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=12;fontColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9e3r84pI2SBy_3QbqfXA-171" target="9e3r84pI2SBy_3QbqfXA-175">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-171" value="very demanding research area in:&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="1790" width="121.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-173" value="Computer vision and sensor domains" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="1790" width="201.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-178" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="9e3r84pI2SBy_3QbqfXA-175" target="9e3r84pI2SBy_3QbqfXA-177">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-175" value="for many applications: healthcare, surveillance, Man-machine interaction, etc" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1179.5" y="1860" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-177" value="Video surveillance: parks, streets, venues, etct --&amp;gt; security&lt;br&gt;Sport video analysis:&lt;br&gt;Action understanding by robot:&lt;br&gt;Hospital, rehabilitation center, smart-house&lt;br&gt;Entertainment:&lt;br&gt;Monitoring crowded scenes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="1820" width="236.25" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-181" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="9e3r84pI2SBy_3QbqfXA-179" target="9e3r84pI2SBy_3QbqfXA-180">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-183" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="9e3r84pI2SBy_3QbqfXA-179" target="9e3r84pI2SBy_3QbqfXA-182">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-179" value="Action recognition in surveillance" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="864.5" y="1950" width="209.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-180" value="Detecting people fighting" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1124" y="1940" width="209.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-185" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="9e3r84pI2SBy_3QbqfXA-182" target="9e3r84pI2SBy_3QbqfXA-184">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-187" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="9e3r84pI2SBy_3QbqfXA-182" target="9e3r84pI2SBy_3QbqfXA-186">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-182" value="Detecting fall down&lt;br&gt;(thi is very important)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1134" y="2015" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-184" value="sickness realted fall" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1384" y="1970" width="115.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-186" value="sudden fall" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1411" y="2040" width="84" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-190" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="9e3r84pI2SBy_3QbqfXA-188" target="9e3r84pI2SBy_3QbqfXA-189">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-192" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="9e3r84pI2SBy_3QbqfXA-188" target="9e3r84pI2SBy_3QbqfXA-191">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-188" value="Recognition to detect suspicous behavior" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="2095" width="232.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-189" value="Fence climbing" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1202.25" y="2075" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-191" value="Shooting" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1199.75" y="2135" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-196" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="9e3r84pI2SBy_3QbqfXA-194" target="9e3r84pI2SBy_3QbqfXA-195">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-194" value="Activity. Sensor-based" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="2150" width="156.13" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-195" value="- Daily exercise monitoring&lt;br&gt;- patient monitoring outside hospital (ej. después de una cirugía)&lt;br&gt;- elderly care in case of emergency&lt;br&gt;- REmote monitoring of pregnant women&lt;br&gt;- Sensor-based fall detecction" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="870" y="2205" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-197" value="Data preprocessing" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="880" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-203" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="9e3r84pI2SBy_3QbqfXA-198" target="9e3r84pI2SBy_3QbqfXA-199">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-198" value="Cleaning" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="966.13" y="920" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-204" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="9e3r84pI2SBy_3QbqfXA-199" target="9e3r84pI2SBy_3QbqfXA-200">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-199" value="Integration" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1072.5" y="990" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-205" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="9e3r84pI2SBy_3QbqfXA-200" target="9e3r84pI2SBy_3QbqfXA-201">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-200" value="Transformation" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="996" y="1060" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-206" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.022;entryY=0.603;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="9e3r84pI2SBy_3QbqfXA-201" target="9e3r84pI2SBy_3QbqfXA-198">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-201" value="Reduction" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="891.56" y="1010" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
