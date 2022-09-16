@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-16T15:43:32.953Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="1p68_uMyjYvIkwPO-1Ew" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-16T16:33:09.854Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="T_jb6iYJ_9uYsDYy7W-H" version="20.3.0" type="github">
   <diagram id="mcWvsBhBYjvY7HLqfO6d" name="Página-1">
-    <mxGraphModel dx="1298" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1730" dy="952" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -351,7 +351,7 @@
           <mxGeometry x="413" y="227" width="312.54" height="37" as="geometry" />
         </mxCell>
         <mxCell id="9e3r84pI2SBy_3QbqfXA-1" value="fuente:&amp;nbsp;https://www.youtube.com/watch?v=Q7R2Wixpi6w&lt;br&gt;30 de abril 2020" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="1220" width="340" height="30" as="geometry" />
+          <mxGeometry x="30" y="1210" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9e3r84pI2SBy_3QbqfXA-2" value="Md Atiqur Rahman Ahad&lt;br&gt;Professor, University of Dhaka, Bangladesh&lt;br&gt;Specially Appointed Associate Professor, Osaka&amp;nbsp; University, Japan&lt;br&gt;http://ahadvisionlab.com" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="447" y="1180" width="380" height="70" as="geometry" />
@@ -360,10 +360,10 @@
           <mxGeometry x="20" y="1180" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9e3r84pI2SBy_3QbqfXA-7" value="&lt;b&gt;HUMAN ACTION (ACTIVITY) AND GAIT RECOGNITION&lt;br&gt;(RECONOCIMIENTO DE ACTIVIDAD Y MODO DE ANDARA HUMANO&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="17.5" y="1270" width="450" height="30" as="geometry" />
+          <mxGeometry x="17.5" y="1245" width="450" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9e3r84pI2SBy_3QbqfXA-8" value="1) Basics +application" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1330" width="160" height="30" as="geometry" />
+          <mxGeometry x="51.730000000000004" y="1290" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9e3r84pI2SBy_3QbqfXA-9" value="2) Datasets" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="887.5" y="1215" width="160" height="30" as="geometry" />
@@ -375,7 +375,7 @@
           <mxGeometry x="870" y="1325" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9e3r84pI2SBy_3QbqfXA-12" value="HAR (Human Activity Recognition)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="1330" width="265" height="30" as="geometry" />
+          <mxGeometry x="200" y="1290" width="265" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9e3r84pI2SBy_3QbqfXA-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#FF3333;" edge="1" parent="1" source="9e3r84pI2SBy_3QbqfXA-13" target="9e3r84pI2SBy_3QbqfXA-26">
           <mxGeometry relative="1" as="geometry" />
@@ -384,7 +384,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9e3r84pI2SBy_3QbqfXA-13" value="Environmental &lt;font color=&quot;#ff3333&quot;&gt;Sensor-based&lt;/font&gt; HAR" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="63.47" y="1370" width="212.5" height="40" as="geometry" />
+          <mxGeometry x="53.47" y="1335" width="212.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9e3r84pI2SBy_3QbqfXA-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF3333;" edge="1" parent="1" source="9e3r84pI2SBy_3QbqfXA-14" target="9e3r84pI2SBy_3QbqfXA-21">
           <mxGeometry relative="1" as="geometry" />
@@ -393,7 +393,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9e3r84pI2SBy_3QbqfXA-14" value="&lt;font color=&quot;#ff3333&quot;&gt;Video-based&lt;/font&gt; HAR" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="63.47" y="1440" width="209.03" height="40" as="geometry" />
+          <mxGeometry x="53.47" y="1405" width="209.03" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9e3r84pI2SBy_3QbqfXA-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#FF3333;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9e3r84pI2SBy_3QbqfXA-15" target="9e3r84pI2SBy_3QbqfXA-17">
           <mxGeometry relative="1" as="geometry" />
@@ -402,31 +402,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9e3r84pI2SBy_3QbqfXA-15" value="Wearable&amp;nbsp;&lt;font color=&quot;#ff3333&quot;&gt;Sensor-based&lt;/font&gt; HAR&lt;br&gt;(wearable=portatil, usable, que esta en el cuerpo)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="1510" width="230" height="40" as="geometry" />
+          <mxGeometry x="20" y="1475" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9e3r84pI2SBy_3QbqfXA-17" value="Patient discomfort (e.g., adultos mayores, paceintes) (no quieren usar sensores en su cuerpo)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1540" width="530" height="30" as="geometry" />
+          <mxGeometry x="300" y="1505" width="510" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9e3r84pI2SBy_3QbqfXA-18" value="less user than smartphone&lt;br&gt;(los smartphones vienen incluidos con algunos sensores)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="325" y="1570" width="315" height="40" as="geometry" />
+          <mxGeometry x="315" y="1535" width="315" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9e3r84pI2SBy_3QbqfXA-21" value="Securyty, privacy issue, etc (problema es que no queremos mostrar nuestros videos&lt;br&gt;No queremos que nos graben y utilicen la información)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="1440" width="460" height="40" as="geometry" />
+          <mxGeometry x="330" y="1405" width="460" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9e3r84pI2SBy_3QbqfXA-22" value="Poor outdoor performance&lt;br&gt;(no se obtiene suficiente información cuando está en la calle" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="1490" width="340" height="30" as="geometry" />
+          <mxGeometry x="370" y="1455" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9e3r84pI2SBy_3QbqfXA-25" value="infrastructure-dependent" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="1360" width="200" height="30" as="geometry" />
+          <mxGeometry x="370" y="1325" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9e3r84pI2SBy_3QbqfXA-26" value="Poor performance in case of multiple subjects" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="1400" width="260" height="30" as="geometry" />
+          <mxGeometry x="370" y="1365" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9e3r84pI2SBy_3QbqfXA-58" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;dashed=1;fontColor=#000000;" edge="1" parent="1" source="9e3r84pI2SBy_3QbqfXA-34" target="9e3r84pI2SBy_3QbqfXA-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9e3r84pI2SBy_3QbqfXA-34" value="&lt;font color=&quot;#000000&quot;&gt;Human Action Recognition&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontColor=#FF3333;" vertex="1" parent="1">
-          <mxGeometry x="515" y="1803" width="140" height="40" as="geometry" />
+          <mxGeometry x="515" y="1743" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9e3r84pI2SBy_3QbqfXA-35" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;fontColor=#FF3333;" edge="1" parent="1" source="9e3r84pI2SBy_3QbqfXA-31" target="9e3r84pI2SBy_3QbqfXA-34">
           <mxGeometry relative="1" as="geometry" />
@@ -435,7 +435,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9e3r84pI2SBy_3QbqfXA-31" value="&lt;font color=&quot;#000000&quot;&gt;Human Motion Analysis&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontColor=#FF3333;" vertex="1" parent="1">
-          <mxGeometry x="335" y="1680" width="160" height="40" as="geometry" />
+          <mxGeometry x="335" y="1620" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9e3r84pI2SBy_3QbqfXA-33" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;fontColor=#FF3333;" edge="1" parent="1" source="9e3r84pI2SBy_3QbqfXA-31" target="9e3r84pI2SBy_3QbqfXA-32">
           <mxGeometry relative="1" as="geometry" />
@@ -444,34 +444,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9e3r84pI2SBy_3QbqfXA-32" value="&lt;font color=&quot;#000000&quot;&gt;Body Structure Analysis&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontColor=#FF3333;" vertex="1" parent="1">
-          <mxGeometry x="185" y="1803" width="140" height="40" as="geometry" />
+          <mxGeometry x="185" y="1743" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9e3r84pI2SBy_3QbqfXA-59" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;fontColor=#000000;" edge="1" parent="1" source="9e3r84pI2SBy_3QbqfXA-41" target="9e3r84pI2SBy_3QbqfXA-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9e3r84pI2SBy_3QbqfXA-41" value="&lt;font color=&quot;#000000&quot;&gt;Human tracking&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontColor=#FF3333;" vertex="1" parent="1">
-          <mxGeometry x="365" y="1803" width="100" height="40" as="geometry" />
+          <mxGeometry x="365" y="1743" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9e3r84pI2SBy_3QbqfXA-51" value="Action: video-based" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="330" y="1650" width="130" height="30" as="geometry" />
+          <mxGeometry x="330" y="1590" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9e3r84pI2SBy_3QbqfXA-52" value="se divide en 3 categorías" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="205" y="1710" width="130" height="30" as="geometry" />
+          <mxGeometry x="205" y="1650" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9e3r84pI2SBy_3QbqfXA-53" value="con Técnicas de OpenPose y sensores Kinect podemos obtener la estructura del cuerpo. los puntos de las ariculaciones (body joint points) como un esqueleto y usar esa información para la comprensión del movimeinto humano (human movement understanding)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="10" y="1640" width="170" height="170" as="geometry" />
+          <mxGeometry x="10" y="1580" width="170" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="9e3r84pI2SBy_3QbqfXA-54" value="Este esotro campo bastante usado. decadas atrás era solo para una persona, pero ahora podemos hacerlo para multiples personas&lt;br&gt;&lt;br&gt;Hay probleams con la oclusión, perdida" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="160" y="1870" width="460" height="60" as="geometry" />
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-54" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Este esotro campo bastante usado. decadas atrás era solo para una persona, pero ahora podemos hacerlo para multiples personas.Hay probleams con la oclusión, perdida&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1810" width="485" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9e3r84pI2SBy_3QbqfXA-55" value="Tambien llamado &quot;Human Action Prediction&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="670" y="1665" width="140" height="140" as="geometry" />
+          <mxGeometry x="670" y="1605" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="9e3r84pI2SBy_3QbqfXA-56" value="Estos 3 partes se combinan para hacer algo especifico" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="417.5" y="1724" width="165" height="30" as="geometry" />
+          <mxGeometry x="417.5" y="1664" width="165" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9e3r84pI2SBy_3QbqfXA-66" value="Video-based HAR categories" style="swimlane;startSize=20;horizontal=1;childLayout=treeLayout;horizontalTree=0;resizable=0;containerType=tree;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="124" y="1960" width="580" height="370" as="geometry" />
+          <mxGeometry x="124" y="1880" width="580" height="370" as="geometry" />
         </mxCell>
         <mxCell id="9e3r84pI2SBy_3QbqfXA-67" value="Action Recognition" style="whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="9e3r84pI2SBy_3QbqfXA-66">
           <mxGeometry x="220" y="40" width="140" height="40" as="geometry" />
@@ -539,8 +539,47 @@
         <mxCell id="9e3r84pI2SBy_3QbqfXA-69" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;fontColor=#000000;" edge="1" parent="9e3r84pI2SBy_3QbqfXA-66" source="9e3r84pI2SBy_3QbqfXA-67" target="9e3r84pI2SBy_3QbqfXA-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9e3r84pI2SBy_3QbqfXA-109" value="image-frame-based. un video de un segundo puede tener 30 frames" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="30" y="1960" width="190" height="80" as="geometry" />
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-109" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;image-frame-based. un video de un segundo puede tener 30 frames. Es el más usado. tiene muchos métodos y hay miles de papers.&lt;br&gt;RGB significa imagenes, imagenes e imagenes. Es mucho volumen&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1845" width="186" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-113" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;kinect sensors. tiene varios datasets. si en ves de una imagen extraes solo 20, 22, 25 puntos de articulaciones. Estos son solo números. En terminos de volumen de datos el &quot;skeleton based&quot; es mejor que el basado en imágenes (RGB-based)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="660" y="1830" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-114" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Las acciones las hacemos una detras de otra. Segmentamos temporalmente y reconocemos cada actividad separada. Esto es un dominio bastante dificil&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="650" y="2090" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-122" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Casi todos los trabajos en los ultimos 20 años estan basados en &quot;segmented classes&quot;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="5" y="2060" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-123" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;si dices que hay un método que reconoce 10 acciones o 10 clases de acciones, basicamente cada acción por cada sujeto o persona son videos separados. Si tu tienes 10 clases de acción por 20 personas, entonces basicamente 10 x 20 =200 videos separados. tu sistema tomará video por video y tratará de reconocer.&lt;br&gt;&lt;br&gt;Pero en la vida real tenemos secuencias continuas.&amp;nbsp; comemos, luego leemos. luego escribimos, etc&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="25" y="2140" width="195" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-124" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Esto es complicado. por eso los métodos fuera de linea (offline) son más común hacerlo&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="650" y="2220" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-125" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fontColor=#000000;dashed=1;" edge="1" parent="1" source="9e3r84pI2SBy_3QbqfXA-107" target="9e3r84pI2SBy_3QbqfXA-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-121" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Temporal segmentation -&amp;gt; recognition&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="704" y="2030" width="96" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-126" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.05;entryY=0.33;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontColor=#000000;" edge="1" parent="1" source="9e3r84pI2SBy_3QbqfXA-102" target="9e3r84pI2SBy_3QbqfXA-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-127" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;fontColor=#000000;" edge="1" parent="1" source="9e3r84pI2SBy_3QbqfXA-102" target="9e3r84pI2SBy_3QbqfXA-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-128" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.003;entryY=0.335;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontColor=#000000;" edge="1" parent="1" source="9e3r84pI2SBy_3QbqfXA-73" target="9e3r84pI2SBy_3QbqfXA-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-129" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;dashed=1;fontColor=#000000;" edge="1" parent="1" source="9e3r84pI2SBy_3QbqfXA-75" target="9e3r84pI2SBy_3QbqfXA-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-130" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;fontColor=#000000;" edge="1" parent="1" source="9e3r84pI2SBy_3QbqfXA-101" target="9e3r84pI2SBy_3QbqfXA-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9e3r84pI2SBy_3QbqfXA-131" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;dashed=1;fontColor=#000000;" edge="1" parent="1" source="9e3r84pI2SBy_3QbqfXA-101" target="9e3r84pI2SBy_3QbqfXA-123">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
