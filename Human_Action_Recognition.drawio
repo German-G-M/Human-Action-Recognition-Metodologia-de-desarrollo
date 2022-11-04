@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-04T02:32:25.917Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="01jAHaYSxnMdYr0Iw646" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-04T03:10:27.694Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="1Y7JoWLoa2CHWb-IQ47h" version="20.5.1" type="github">
   <diagram id="mcWvsBhBYjvY7HLqfO6d" name="Página-1">
-    <mxGraphModel dx="1038" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1071,10 +1071,10 @@
         <mxCell id="4I3tFs_crKqfBSR0OiTx-99" value="4" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.infographic.circularCallout;dy=3;fillColor=#10739E;strokeColor=none;labelPosition=center;align=center;fontColor=#10739E;fontStyle=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="2030.57" y="340" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4I3tFs_crKqfBSR0OiTx-101" value="&lt;font color=&quot;#ff8000&quot;&gt;6&lt;/font&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.infographic.circularCallout;dy=3;fillColor=#FF8000;strokeColor=none;labelPosition=center;align=center;fontColor=#10739E;fontStyle=1;fontSize=24;" parent="1" vertex="1">
+        <mxCell id="4I3tFs_crKqfBSR0OiTx-101" value="&lt;font color=&quot;#ff8000&quot;&gt;7&lt;/font&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.infographic.circularCallout;dy=3;fillColor=#FF8000;strokeColor=none;labelPosition=center;align=center;fontColor=#10739E;fontStyle=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="2250" y="700" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4I3tFs_crKqfBSR0OiTx-102" value="&lt;font color=&quot;#ff8000&quot;&gt;7&lt;/font&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.infographic.circularCallout;dy=3;fillColor=#FF8000;strokeColor=none;labelPosition=center;align=center;fontColor=#10739E;fontStyle=1;fontSize=24;" parent="1" vertex="1">
+        <mxCell id="4I3tFs_crKqfBSR0OiTx-102" value="&lt;font color=&quot;#ff8000&quot;&gt;6&lt;/font&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.infographic.circularCallout;dy=3;fillColor=#FF8000;strokeColor=none;labelPosition=center;align=center;fontColor=#10739E;fontStyle=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="2114.57" y="700" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4I3tFs_crKqfBSR0OiTx-106" value="&lt;font color=&quot;#000000&quot;&gt;Extracción de los puntos clave&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#009900;" parent="1" vertex="1">
@@ -1835,7 +1835,7 @@
         <mxCell id="Sq1mfwyMkSQMlmAvJqFJ-11" value="Lectura de las secuencias de imágenes desde una cámara de vigilancia" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1785.5" y="913.5" width="174.5" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="Sq1mfwyMkSQMlmAvJqFJ-12" value="aplicación de modelo en tiempo real" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Sq1mfwyMkSQMlmAvJqFJ-12" value="Aplicación de modelo en tiempo real" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="2192.5" y="910" width="137.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Sq1mfwyMkSQMlmAvJqFJ-13" value="&lt;font color=&quot;#666666&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;RECONOCIMIENTO DE MOVIMIENTO HUMANO INUSUAL EN CÁMARAS DE VIGILANCIA&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
